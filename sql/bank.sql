@@ -41,10 +41,7 @@ CREATE TABLE `transaction` (
 
 INSERT INTO `transaction` (`sno`, `sender`, `receiver`, `balance`, `datetime`) VALUES
 (1, 'aaron', 'Arjun', 12, '2021-08-11 18:00:17'),
-(2, 'Arjun', 'Bala', 34, '2021-08-11 18:13:00'),
-(3, 'Arjun', 'Bala', 23, '2021-08-11 18:29:33'),
-(4, 'Arjun', 'aaron', 32, '2021-08-11 18:30:31'),
-(5, 'Arjun', 'Bala', 500, '2021-08-11 19:34:23');
+(2, 'Arjun', 'Bala', 500, '2021-08-11 19:34:23');
 
 -- --------------------------------------------------------
 
